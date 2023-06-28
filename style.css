@@ -1,0 +1,18 @@
+.body{
+    background-color: rgb(201, 199, 199);
+}
+.grid{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4vw;
+    grid-template-columns: repeat(2, auto);
+    margin: 2rem;
+    margin-right: 10vw;
+    margin-left: 10vw;
+}
+.right{
+    text-align: end;
+}
+.gslink{
+    text-align: center;
+    font-size: 2vw; 
+}
